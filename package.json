@@ -1,0 +1,24 @@
+{
+  "name": "node-ts-starter",
+  "version": "0.1.0",
+  "description": "Starter project for Typescript node applications.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic-dev/node-ts-starter.git"
+  },
+  "keywords": [
+    "Node",
+    "Typescript",
+    "starter"
+  ],
+  "author": "John Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stoic-dev/node-ts-starter/issues"
+  },
+  "homepage": "https://github.com/stoic-dev/node-ts-starter#readme"
+}
