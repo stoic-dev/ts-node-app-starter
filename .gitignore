@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Build Artifacts
+dist
+.awcache
+
+# IDE Config
+.vscode
