@@ -1,2 +1,2 @@
-# node-ts-starter
-Starter project for a Typescript node application.
+# ts-node-app-starter
+Starter project for a Typescript NodeJS application.
