@@ -1,7 +1,7 @@
 {
-  "name": "node-ts-starter",
+  "name": "ts-node-app-starter",
   "version": "0.1.0",
-  "description": "Starter project for Typescript node applications.",
+  "description": "Starter project for a Typescript NodeJS application.",
   "main": "main.js",
   "scripts": {
     "build:dev": "webpack --config config/webpack/webpack.dev.js --progress --profile",
@@ -27,19 +27,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stoic-dev/node-ts-starter.git"
+    "url": "git+https://github.com/stoic-dev/ts-node-app-starter.git"
   },
   "keywords": [
-    "Node",
+    "NodeJS",
     "Typescript",
-    "starter"
+    "starter",
+    "template"
   ],
   "author": "John Harris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stoic-dev/node-ts-starter/issues"
+    "url": "https://github.com/stoic-dev/ts-node-app-starter/issues"
   },
-  "homepage": "https://github.com/stoic-dev/node-ts-starter#readme",
+  "homepage": "https://github.com/stoic-dev/ts-node-app-starter#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
