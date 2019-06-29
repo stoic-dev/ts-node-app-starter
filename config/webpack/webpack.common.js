@@ -53,7 +53,7 @@ module.exports = function() {
         ],
         output: {
             path: joinRelativeToProjectRootDirectory('dist'),
-            filename: 'main.js'
+            filename: '[name].js'
         },
         resolve: {
             extensions: ['.js', '.ts']
